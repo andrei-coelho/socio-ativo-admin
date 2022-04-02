@@ -1,2 +1,2 @@
 # socio-ativo-admin
-Admin Socio Ativo
+Admin do sistema Socio Ativo
